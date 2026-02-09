@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mahesh<br><br>🚀 MERN Stack Developer | MCA Final Year Student  <br>💻 Tech: React, Node.js, Express, MongoDB  <br>📌 Interested in Full-Stack & AI-based projects<br><br>🔧 Tech Stack<br>- Frontend: React, Tailwind, CSS<br>- Backend: Node.js, Express<br>- Database: MongoDB<br>- Tools: Git, GitHub, Postman<br><br>📂 Projects<br>- AI Thumbnail Generator<br>- Campus-Fix<br>- Student Signup & Auth System (MERN)<br><br>📫 Connect with me<br>- LinkedIn:https://www.linkedin.com/in/maheshdhulipudi/<br>- Email:maheshdhulipudi45@gmail.com<br>
+👋 Hi, I'm Mahesh Dhulipudi<br><br>🚀 MERN Stack Developer | MCA Final Year Student  <br>💻 Tech: React, Node.js, Express, MongoDB  <br>📌 Interested in Full-Stack & AI-based projects<br><br>🔧 Tech Stack<br>- Frontend: React, Tailwind, CSS<br>- Backend: Node.js, Express<br>- Database: MongoDB<br>- Tools: Git, GitHub, Postman<br><br>📂 Projects<br>- AI Thumbnail Generator<br>- Campus-Fix<br>- Student Signup & Auth System (MERN)<br><br>📫 Connect with me<br>- LinkedIn:https://www.linkedin.com/in/maheshdhulipudi/<br>- Email:maheshdhulipudi45@gmail.com<br>
 
 
 ## 🌐 Socials:
